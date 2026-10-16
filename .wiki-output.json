@@ -1,0 +1,553 @@
+{
+  "capacity_objects": [],
+  "files": {
+    "reference/building-piece/0001.md": {
+      "bytes": 51692,
+      "sha256": "3d026912e5babbab7ac1b9da03e848af5d554f41379ede4b591e3e0fc90ef116"
+    },
+    "reference/building-piece/0002.md": {
+      "bytes": 52176,
+      "sha256": "745187b457b740205f843f24ac8536570a99a733188f951a9fb7dc46e1015e43"
+    },
+    "reference/building-piece/0003.md": {
+      "bytes": 52020,
+      "sha256": "7d01a441f2b60bba28b787b996c6a67e3b43ae0ecc69276fc158d2f19dea316c"
+    },
+    "reference/building-piece/0004.md": {
+      "bytes": 51767,
+      "sha256": "31443bf34b286163ede9ccdd0c621e547337739456fe7c8628332c0bf5c1ffb2"
+    },
+    "reference/building-piece/0005.md": {
+      "bytes": 51510,
+      "sha256": "58016cf89af148a708ea054698a4fbdbb7048455170075dee694e60a95dd6a03"
+    },
+    "reference/building-piece/0006.md": {
+      "bytes": 51344,
+      "sha256": "14b64b9a91510cb86744d2a033596f8e3b5984ef34b11505fe28ae6c4546d205"
+    },
+    "reference/building-piece/0007.md": {
+      "bytes": 51201,
+      "sha256": "25f7cf85ef20ed066c45c94e77ba71f3e983bbb4e25f97b770f3bd2aea4ce4d3"
+    },
+    "reference/building-piece/0008.md": {
+      "bytes": 50687,
+      "sha256": "3817dd21492d25f2b639cab2298124acb2e304f6af2231cb3c567220204b436e"
+    },
+    "reference/building-piece/0009.md": {
+      "bytes": 50501,
+      "sha256": "f09d0b143189de185cfe2285d392557355490a090ba5430f309f7133f8ca117c"
+    },
+    "reference/building-piece/0010.md": {
+      "bytes": 50827,
+      "sha256": "d94487bd32d80dc6747dfa186d4d37c98ec04f21016d91a621da72cf6f0c6dd4"
+    },
+    "reference/building-piece/0011.md": {
+      "bytes": 51128,
+      "sha256": "4b0de69c66a9e62aabe5e280010d3f68f07823e2195375c5f8832806bc6ce075"
+    },
+    "reference/building-piece/0012.md": {
+      "bytes": 50929,
+      "sha256": "8920a0ea964fa074bc3ebf9f66b2ab9ba18f14d1c38a0a95acd6cb3452303ba4"
+    },
+    "reference/building-piece/0013.md": {
+      "bytes": 50736,
+      "sha256": "166eda67b340539cbb61754769f4a640104f9a92f34d43af0892ab565b661651"
+    },
+    "reference/building-piece/0014.md": {
+      "bytes": 50870,
+      "sha256": "5a6be9b4c9711fa1de7b2e3bb9639fb863f8e166eeaa4fa96069c7b5bb7e3234"
+    },
+    "reference/building-piece/0015.md": {
+      "bytes": 51139,
+      "sha256": "95f27f4c3ef7ebf93c7c21670363a7d51840b7b290d88ff699905f1aecc1e6e4"
+    },
+    "reference/building-piece/0016.md": {
+      "bytes": 50955,
+      "sha256": "2b8f45884da96a69e9579ac26e5c20f1487738c402ecc77ad0414c0c54b1711c"
+    },
+    "reference/building-piece/0017.md": {
+      "bytes": 50537,
+      "sha256": "ccce702e68c0ae7b894fdcbf4a87b79915ff36c1cfff577d3941dd8d7e2ce284"
+    },
+    "reference/building-piece/0018.md": {
+      "bytes": 50739,
+      "sha256": "cc674c81890960b2e597b464de5c88a3a84914fe0e2b13981c729c4bd1998cb5"
+    },
+    "reference/building-piece/0019.md": {
+      "bytes": 49891,
+      "sha256": "57dd6815fa5c8ac88bd359fb7b432b70655e6c72e4f64e06adab5991005f28f9"
+    },
+    "reference/building-piece/0020.md": {
+      "bytes": 49842,
+      "sha256": "630213dd02019b402780d0a4ec0095a4904e185bf45000987ce40d99c4a1a49e"
+    },
+    "reference/building-piece/0021.md": {
+      "bytes": 49834,
+      "sha256": "74e0bf76831f8166014b3fa80f246dceef29dbe971037f1e7fde3ad3a29a51db"
+    },
+    "reference/building-piece/0022.md": {
+      "bytes": 49755,
+      "sha256": "919e0ec5748b743e5b66cff0d013d36b0061deba5738266bf0fb18d0f1af874c"
+    },
+    "reference/building-piece/0023.md": {
+      "bytes": 49743,
+      "sha256": "bb559dd61caa714423772bfb1e2c4cebb5cc1259f15b83dcd4a2d0e2e75b82a6"
+    },
+    "reference/building-piece/0024.md": {
+      "bytes": 49831,
+      "sha256": "b55925e27b7bf5edab89045f9caa6b7f1f66ca22e6e40e0d59fdfb599f756c7c"
+    },
+    "reference/building-piece/0025.md": {
+      "bytes": 51097,
+      "sha256": "a288aaddc2162c6be9eeb0ab0969209a87d5912f7f8609d2c26caa5139e16af5"
+    },
+    "reference/building-piece/0026.md": {
+      "bytes": 51535,
+      "sha256": "f029a56ab04e9241dba26b65cd51209a5274b1df62f30465f56df5d0981c88e4"
+    },
+    "reference/building-piece/0027.md": {
+      "bytes": 51149,
+      "sha256": "e32ddfeabd06968b973d9be41270c4bea72f42c5f58fe1defce25f82aa943e34"
+    },
+    "reference/building-piece/0028.md": {
+      "bytes": 50911,
+      "sha256": "0d6c4c93f2be1a9451541507d87f09f960abfed47da8c96b434c7b98ee8d6b3e"
+    },
+    "reference/building-piece/0029.md": {
+      "bytes": 51031,
+      "sha256": "6ee9274168c587e51ea980d1c26b5484181f04fa77c63c3fa9ad501d6c1b9a5d"
+    },
+    "reference/building-piece/0030.md": {
+      "bytes": 50900,
+      "sha256": "cd9a98c94de77996680efd5a2292a86f45a2048918aa91d5ae08719cbf0a6828"
+    },
+    "reference/building-piece/0031.md": {
+      "bytes": 50515,
+      "sha256": "47a9bd9bf39e07a2e9aeb2e0fd8a77f5f8b0d37b0a3277d4c1aa0ca13550284e"
+    },
+    "reference/building-piece/0032.md": {
+      "bytes": 50507,
+      "sha256": "b1cbae2a71e4c5968b3129dd054dc3a2839f352457eeb52a46e545e88c15c0fe"
+    },
+    "reference/building-piece/0033.md": {
+      "bytes": 51248,
+      "sha256": "c25f92efef718f97c2e1a79ceffe2534d96a63ff10e7ee80b6cab484441ed7db"
+    },
+    "reference/building-piece/0034.md": {
+      "bytes": 50832,
+      "sha256": "bd07836e41cb3a2dbe83fec3ca16ca95189b28a3515fd624066bb7a02277593e"
+    },
+    "reference/building-piece/0035.md": {
+      "bytes": 50931,
+      "sha256": "29731327b6c0c0f080ee599c07ea092e18d6057998c0e1796c91d5e649dd3c64"
+    },
+    "reference/building-piece/0036.md": {
+      "bytes": 51018,
+      "sha256": "73d9cabbecd559a6fae1f72d2186d773c660d7f56cc6336d527bc9cd23c7ebef"
+    },
+    "reference/building-piece/0037.md": {
+      "bytes": 50742,
+      "sha256": "a53a3c33a83d4223fb93a72718d4532db209a40ac094d175273987a239b3806c"
+    },
+    "reference/building-piece/0038.md": {
+      "bytes": 50641,
+      "sha256": "96edef470df2414f89aa5504193dbd10c231f0126039bda252e23e3618406773"
+    },
+    "reference/building-piece/0039.md": {
+      "bytes": 50875,
+      "sha256": "a3cfab4f27e10d6b00507f4bdc473294c945c9b36bccd83b88ccdba25ae1a8c3"
+    },
+    "reference/building-piece/0040.md": {
+      "bytes": 50942,
+      "sha256": "7c762b988747fde4a8ac0a826f64391018f3444b2efcbc5db6bdffa0d32aba1e"
+    },
+    "reference/building-piece/0041.md": {
+      "bytes": 50880,
+      "sha256": "fc90fa234e26031fa377e49018992bfbd8a39f5f3980f4a5f70808a6abb0b579"
+    },
+    "reference/building-piece/0042.md": {
+      "bytes": 45511,
+      "sha256": "001e926bda519dfd7d7c4b8bc7e62a48b719e90ee42a25d510f035521d7aecdc"
+    },
+    "reference/construction-rule/0001.md": {
+      "bytes": 30931,
+      "sha256": "a66c0ce162d57cb396145a0a1c058c20ba4da864fde1d6212f0df42187421f40"
+    },
+    "reference/construction-rule/0002.md": {
+      "bytes": 30931,
+      "sha256": "1f4c4c382f0209e6cdb7ce014bcea5a58d95b1d4bb7aaaa6154330c9241f7312"
+    },
+    "reference/construction-rule/0003.md": {
+      "bytes": 30931,
+      "sha256": "56381ddd0c915cb55cb2a53c746fa262a812b1937e7c51ea50cab262342c66df"
+    },
+    "reference/construction-rule/0004.md": {
+      "bytes": 38918,
+      "sha256": "b8bc1d9af33dde33c132a746cafd7361d96d645e04d7a39f7360be05c6f92fce"
+    },
+    "reference/construction-rule/0005.md": {
+      "bytes": 40944,
+      "sha256": "60255b293d208831956d9eb857c1535a4230d2fb252ad96ce870d83b712d5069"
+    },
+    "reference/construction-rule/0006.md": {
+      "bytes": 40505,
+      "sha256": "7a5ab79b3ab9f6ac7b29819fbba586cfd9b301e899ee85d7a3aa45f8bc521664"
+    },
+    "reference/construction-rule/0007.md": {
+      "bytes": 40271,
+      "sha256": "a7003e6bafa7f854b232593ccbf0922b8ba1588d2386725636af23cbe5eb1b84"
+    },
+    "reference/construction-rule/0008.md": {
+      "bytes": 40350,
+      "sha256": "38a187a7372cb16c91b35b82c6d9570785f62b1eca3134c3ec58f5c5769e6f6e"
+    },
+    "reference/construction-rule/0009.md": {
+      "bytes": 40360,
+      "sha256": "c5ef267ff4ec55041043ec02449e1add9511ebbe56e747321194c3905fac3e06"
+    },
+    "reference/construction-rule/0010.md": {
+      "bytes": 40451,
+      "sha256": "8f53f68c558dc1a771f0e9bf0886944bd6fad0cd8e651ee5e7dc4a63fe8489ee"
+    },
+    "reference/construction-rule/0011.md": {
+      "bytes": 40522,
+      "sha256": "a8747d45fb79380d77ab93ca8086b93630d95e31d5e9cebeda0ae0e14d5805d9"
+    },
+    "reference/construction-rule/0012.md": {
+      "bytes": 39256,
+      "sha256": "32d6912d99b8a4446846b5e3ea3fccb649dfaf480ec45b99e39a93838c7953cb"
+    },
+    "reference/construction-rule/0013.md": {
+      "bytes": 38811,
+      "sha256": "cfb6629c43e6c3c4be8b075c1354ebd2efa30e84c2ea711d3bb00d9d57555faf"
+    },
+    "reference/construction-rule/0014.md": {
+      "bytes": 40458,
+      "sha256": "35bf8c48fb9553ea6148ce8cbfe915fa8efe17edea3874d0de67c1f252d7de9f"
+    },
+    "reference/construction-rule/0015.md": {
+      "bytes": 39765,
+      "sha256": "c5b9ea346348ac68e515c65a3f744a3dc2c78a6c3a51f491d01724b4fc5a03b9"
+    },
+    "reference/construction-rule/0016.md": {
+      "bytes": 39351,
+      "sha256": "688fd018984de7e892bf7498d5f7d1fdb1485e8495a9f9b844c57e0f0eed230c"
+    },
+    "reference/construction-rule/0017.md": {
+      "bytes": 39316,
+      "sha256": "7be3d4077e54165cd48026e62f25b16441fd05861611bf876b2e308ac51f5608"
+    },
+    "reference/construction-rule/0018.md": {
+      "bytes": 39735,
+      "sha256": "dfe9003680af6af9a26a2f61f3b1e24b0463100520ee60268038c75b4a78d789"
+    },
+    "reference/construction-rule/0019.md": {
+      "bytes": 39439,
+      "sha256": "323430cebd24bdf40a8186c8c9bb25ef7527937f2905b1e6f9f06ed74c0e0491"
+    },
+    "reference/construction-rule/0020.md": {
+      "bytes": 39688,
+      "sha256": "2fb6df6f1a8c840c8a76a0180efc08b0f8d557e825e96755aa264c8f51cf7b64"
+    },
+    "reference/construction-rule/0021.md": {
+      "bytes": 40341,
+      "sha256": "9035ce0f35b25a083caff06bb06c82bdb228188ea2106d6c90b892b48eb7554f"
+    },
+    "reference/construction-rule/0022.md": {
+      "bytes": 39868,
+      "sha256": "ad1ce539647008ff11638f58cd3b1ae5802a1ca25f221fe30238b23be85871b2"
+    },
+    "reference/construction-rule/0023.md": {
+      "bytes": 42442,
+      "sha256": "45d8c84528952d1cd8447b67efc009a949dee5a795dc98290d216cd0b139d8d9"
+    },
+    "reference/construction-rule/0024.md": {
+      "bytes": 39831,
+      "sha256": "c04346b0ef60c6ef44011a0566882f74f4256cd4c8468aa508af3f9c3f7df5fa"
+    },
+    "reference/construction-rule/0025.md": {
+      "bytes": 38222,
+      "sha256": "4211915ce7e1d1062d81f6dfb231827d63cf59a010771101779e86a2bc40e072"
+    },
+    "reference/construction-rule/0026.md": {
+      "bytes": 38216,
+      "sha256": "1592b51a0dae56261afa355a56ff9f3ad5a59bb2bfc12e77fc4251ca110fa8f1"
+    },
+    "reference/construction-rule/0027.md": {
+      "bytes": 38194,
+      "sha256": "7e1475b02f17ee11b6de8b83b340320d9724f76dde7349f35e08c0c4ec381f87"
+    },
+    "reference/construction-rule/0028.md": {
+      "bytes": 38121,
+      "sha256": "d2c0f7751239a5f55a3a641da7df94e75c0f3fb5c938cd4320dff1f55b2d0bc7"
+    },
+    "reference/construction-rule/0029.md": {
+      "bytes": 38121,
+      "sha256": "4610b27b0de34a2275d8af21edca55f024d80b5b6fdf59c615c5fda336aee125"
+    },
+    "reference/construction-rule/0030.md": {
+      "bytes": 38422,
+      "sha256": "933e393ac460ee32307ad2583de304df0f4f879baa6882a1ea4c43e5c6e3947b"
+    },
+    "reference/construction-rule/0031.md": {
+      "bytes": 39815,
+      "sha256": "bbc335cae8d4ea6658440d2fb5e2aeb0f00dc1349a5d6a4645e01df639094bfb"
+    },
+    "reference/construction-rule/0032.md": {
+      "bytes": 39709,
+      "sha256": "73462261ea525251bbe3f4778b5ccadaff29c285693a5850924836170e7533de"
+    },
+    "reference/construction-rule/0033.md": {
+      "bytes": 41332,
+      "sha256": "5584f596f4427248cf8429a407de28c9fc0f6b2122bc81cf23a81e28b9315233"
+    },
+    "reference/construction-rule/0034.md": {
+      "bytes": 40861,
+      "sha256": "07c8ece6972efe79d4e05df5c3e2f24319a08ea019410ba6ef46d265fbaab6d7"
+    },
+    "reference/construction-rule/0035.md": {
+      "bytes": 39594,
+      "sha256": "9a547970b10cc51e0d78d94332511c52b4ec0ba9d23a4da2b5b541dd585bd0ea"
+    },
+    "reference/construction-rule/0036.md": {
+      "bytes": 39205,
+      "sha256": "043a148a3f2812c59e67f3164f173a23eb996725579121d729fa5e0d9f3a045b"
+    },
+    "reference/construction-rule/0037.md": {
+      "bytes": 39117,
+      "sha256": "71029f390744671705d39e17a1bce58e50cd171f9e43b7c08593cd00c35659d4"
+    },
+    "reference/construction-rule/0038.md": {
+      "bytes": 40278,
+      "sha256": "4b942a28fb42e7689aa290484e58ec4e8c5a43eec821a6ce6c7b697b1a06bb61"
+    },
+    "reference/construction-rule/0039.md": {
+      "bytes": 42086,
+      "sha256": "94af6eaf5b7cfbf8ef1e2040fae3aae1a6dade5db9cad683016dfb4f8b30869f"
+    },
+    "reference/construction-rule/0040.md": {
+      "bytes": 43131,
+      "sha256": "641aa558f2c220373f998ba10e13a5bbf0b93213e1c099bebefb22e9ff76e7ce"
+    },
+    "reference/construction-rule/0041.md": {
+      "bytes": 43131,
+      "sha256": "da7c94d868b69d3115a4074b4df15f2326b043a8d33621042cab2414f843f8d2"
+    },
+    "reference/construction-rule/0042.md": {
+      "bytes": 43131,
+      "sha256": "1e748bcc154f1984005493893a2b3b948e92fa761b977fb3d09f52ddb6f6fcdc"
+    },
+    "reference/construction-rule/0043.md": {
+      "bytes": 43091,
+      "sha256": "dc1077aecaabe1dac2f96e1bfca4ec70441c0ff0a3f8cfdf2df9b4a20c5b534e"
+    },
+    "reference/construction-rule/0044.md": {
+      "bytes": 43031,
+      "sha256": "10855e13bf0f1f0d6f5ab0744a2b3bdf8de527209a03141f419586398efcdc2b"
+    },
+    "reference/construction-rule/0045.md": {
+      "bytes": 43031,
+      "sha256": "1ff5e107bdabb35f02f5ad8bb9bc669726417455d5c7011e1d0eed67a0643368"
+    },
+    "reference/construction-rule/0046.md": {
+      "bytes": 43031,
+      "sha256": "4a7767287b17b7a05bd7977644f088ffa0410272a6642eebb42e547a951d1ec3"
+    },
+    "reference/construction-rule/0047.md": {
+      "bytes": 43031,
+      "sha256": "1da384262e2032745df73d5e6d8050eda9970943847e2f2b100b41c40b7681fa"
+    },
+    "reference/construction-rule/0048.md": {
+      "bytes": 43106,
+      "sha256": "4dd4d1c378fa03cc1f2350c691ba955a8d51027a98a67553b0cc1d6d85d2c7b6"
+    },
+    "reference/construction-rule/0049.md": {
+      "bytes": 43331,
+      "sha256": "b3d7a83ad9c7fe7b3b5953c053223981452a955466b7371831c922c5567c579e"
+    },
+    "reference/construction-rule/0050.md": {
+      "bytes": 43331,
+      "sha256": "0d2a437cc0218f1d4c2c70b93df1e5becb3fd798c01ceef6b892aeda153144be"
+    },
+    "reference/construction-rule/0051.md": {
+      "bytes": 43331,
+      "sha256": "9a818e9f8213b0748045a9e96cd56fa2002ec687c13622494680fed483ea869e"
+    },
+    "reference/construction-rule/0052.md": {
+      "bytes": 43331,
+      "sha256": "45dbad0a99df8aa9dcc9681c9892cf7c88abc15f05ef26930b97a86ebaf37064"
+    },
+    "reference/construction-rule/0053.md": {
+      "bytes": 43331,
+      "sha256": "84a15897fa80d3a8ca0d825c232d3189555c73ec49fa4b50b5619153df36d907"
+    },
+    "reference/construction-rule/0054.md": {
+      "bytes": 43331,
+      "sha256": "d38be1112046a70af4d8b0f4df914782d49669f7e0291049efb36245c429f193"
+    },
+    "reference/construction-rule/0055.md": {
+      "bytes": 43178,
+      "sha256": "e49462f627f21947b9e473728dc37d3493aba400d1aabb84128bc336bd5f53f4"
+    },
+    "reference/construction-rule/0056.md": {
+      "bytes": 43031,
+      "sha256": "eba52fdcc49341fa4d0bbaabd2f2ebb37365a806f834bd1868ef1d2f909edbd2"
+    },
+    "reference/construction-rule/0057.md": {
+      "bytes": 43031,
+      "sha256": "9a3bfb519f2b911cc795cc59cf3c40768f32c1cb689af05fdaf61b1b90584cd0"
+    },
+    "reference/construction-rule/0058.md": {
+      "bytes": 43031,
+      "sha256": "044b87b0a4cca55e09480010323882e5119bb5c64d6d5cca760b7ba64cd24046"
+    },
+    "reference/construction-rule/0059.md": {
+      "bytes": 43031,
+      "sha256": "b301fb1d4c288b00bad144d8dd84f89d92ed404b308ad2748321ccd8e0a2542b"
+    },
+    "reference/construction-rule/0060.md": {
+      "bytes": 43031,
+      "sha256": "c04139c78a26dfe99609947f0b36854581711ae4e19ad7d44bb79da9b3beded7"
+    },
+    "reference/construction-rule/0061.md": {
+      "bytes": 43031,
+      "sha256": "fe35b1c85b294fe62d1cc5c739e3bf2b5b208fafd70baf3f2827d75e286ca70a"
+    },
+    "reference/construction-rule/0062.md": {
+      "bytes": 43017,
+      "sha256": "fd30e4b0055e471e7c7a303b66c5058746e0bf427d293807e3a4b1e8213c81af"
+    },
+    "reference/construction-rule/0063.md": {
+      "bytes": 42831,
+      "sha256": "9968d1ced50193be83d45890fd28a713e147b2c890fd79f945ae137d4fec457d"
+    },
+    "reference/construction-rule/0064.md": {
+      "bytes": 42831,
+      "sha256": "28a54fa1f3ea9ec921d10d66e4d8523ea0cc44febd824c7cbda64d0f703ffb45"
+    },
+    "reference/construction-rule/0065.md": {
+      "bytes": 42831,
+      "sha256": "25ecea69ba11b3e01b492d4891edac1b6142b95bb079d07bc9d62adb917bee96"
+    },
+    "reference/construction-rule/0066.md": {
+      "bytes": 42831,
+      "sha256": "1cdfe7fc85b54cb89a52ee8bec7ecc01920065d24e475c18e97e26100bf881e8"
+    },
+    "reference/construction-rule/0067.md": {
+      "bytes": 42831,
+      "sha256": "d6f7431501e2b7bb9b2d749adb207a81bdb3a97164205f44188c31d6c0e9c6fc"
+    },
+    "reference/construction-rule/0068.md": {
+      "bytes": 42831,
+      "sha256": "a47fa8192c5057e9a0df5716205c6f13081556f84f977b66e23075a9636c3599"
+    },
+    "reference/construction-rule/0069.md": {
+      "bytes": 42831,
+      "sha256": "21062657249816c38ece68ec89717f86cbe683a48bc6739c8aa6a18e745cea51"
+    },
+    "reference/construction-rule/0070.md": {
+      "bytes": 42831,
+      "sha256": "5c9c2eeff1aac01a151cd3f87b69d36264070e104440caf22da70c22cf939bcf"
+    },
+    "reference/construction-rule/0071.md": {
+      "bytes": 41076,
+      "sha256": "8710dc6652b857bb0fffe1ab534d386ecf9f52d2c6c7c1f45d092f0b8b2f114d"
+    },
+    "reference/construction-rule/0072.md": {
+      "bytes": 41127,
+      "sha256": "ffe38b61a710842db75b32cd7f6174978bbaf8520b172eb93ecb5e83afbd499d"
+    },
+    "reference/construction-rule/0073.md": {
+      "bytes": 40283,
+      "sha256": "27471e5e91a621dbe69676f69060f4f755bed335558472f087a77e48f8959403"
+    },
+    "reference/construction-rule/0074.md": {
+      "bytes": 39729,
+      "sha256": "02f0db2dd438cf956c613cdbc4669883776a834d1c1700b8dc4532a50fe0d600"
+    },
+    "reference/construction-rule/0075.md": {
+      "bytes": 39567,
+      "sha256": "99e7bb108230e5aaeed6c0a2cf4460dacfb4c6a3c3aefeafe6cca7e15b823050"
+    },
+    "reference/construction-rule/0076.md": {
+      "bytes": 39526,
+      "sha256": "2ec7658b749e64afed9566b47ad3c4b9be4e6b5abb723fb15eeff15106d2702f"
+    },
+    "reference/construction-rule/0077.md": {
+      "bytes": 39233,
+      "sha256": "ad97e6a8a8e9c8f8ed2564709915430cf49a0c9f425e5b21f2296b1222fe0cd2"
+    },
+    "reference/construction-rule/0078.md": {
+      "bytes": 39763,
+      "sha256": "0394f7c8a2b3e389fb357acda70366d3bb27af2cb43454d6c5e886c9dc090a50"
+    },
+    "reference/construction-rule/0079.md": {
+      "bytes": 40260,
+      "sha256": "94d1f7f8e7a4e2ded1480223ac413e225454f8467a828159503f8bc1ef39136a"
+    },
+    "reference/construction-rule/0080.md": {
+      "bytes": 43103,
+      "sha256": "9fd9d49369a577eea9fad58912910338a6776ef43a1fe454c8fa43aa23de7300"
+    },
+    "reference/construction-rule/0081.md": {
+      "bytes": 42643,
+      "sha256": "9b0411cf7e1c19a9592f2d3f7312610d6299d65a8e637e1a22a408b6f1cb86d0"
+    },
+    "reference/construction-rule/0082.md": {
+      "bytes": 40323,
+      "sha256": "fb276ccfc88a6f900f5acaff35fdad7543be73f29652b353ddde6934b45ce564"
+    },
+    "reference/construction-rule/0083.md": {
+      "bytes": 39735,
+      "sha256": "fb723bd84bc92b91d92b6be92eae0f23b8bdba05f00543f2ac0ded95b5a25430"
+    },
+    "reference/construction-rule/0084.md": {
+      "bytes": 6427,
+      "sha256": "d84e1cdb891bbba8947d3a53a7ee837bd1ae0e365c67b3a195739a681a3a08e4"
+    },
+    "reference/index.md": {
+      "bytes": 7134,
+      "sha256": "701338c14572a41dac9fece0fa2bbbb5f9ee39befb8447120377cdd357d67e62"
+    },
+    "site/.nojekyll": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "site/404.html": {
+      "bytes": 1842,
+      "sha256": "1754b826814461d27eea287bbe4e1695ce4532cddd2a1198bcf8b22d86702c58"
+    },
+    "site/groups/building-piece/index.html": {
+      "bytes": 1842,
+      "sha256": "1754b826814461d27eea287bbe4e1695ce4532cddd2a1198bcf8b22d86702c58"
+    },
+    "site/groups/construction-rule/index.html": {
+      "bytes": 1842,
+      "sha256": "1754b826814461d27eea287bbe4e1695ce4532cddd2a1198bcf8b22d86702c58"
+    },
+    "site/index.html": {
+      "bytes": 1842,
+      "sha256": "1754b826814461d27eea287bbe4e1695ce4532cddd2a1198bcf8b22d86702c58"
+    },
+    "site/reader.css": {
+      "bytes": 59,
+      "sha256": "31b3df513e2f5dab1f6a5db5c18838345bc1e7fd666166dc98d48c996fba712f"
+    },
+    "site/reader.js": {
+      "bytes": 7019,
+      "sha256": "42f2ae61a23ab1f3ab2caa770bd416b2130cee7ea9c55ce8ec90b7de8e3e4265"
+    },
+    "site/reader.json": {
+      "bytes": 428,
+      "sha256": "5eac868bdb73985dd0650132534960af1ac64e3c325ef947881c4a08b38f153f"
+    },
+    "site/releases/97ab95ff7f3aa2a1dec1039117b3eb9ce1733bda47509d1e15b672afb3f793fb.json": {
+      "bytes": 428,
+      "sha256": "5eac868bdb73985dd0650132534960af1ac64e3c325ef947881c4a08b38f153f"
+    }
+  },
+  "kind": "generated-wiki-output",
+  "release_id": "97ab95ff7f3aa2a1dec1039117b3eb9ce1733bda47509d1e15b672afb3f793fb",
+  "repository_id": "construction-part-0001",
+  "schema_version": 1
+}
