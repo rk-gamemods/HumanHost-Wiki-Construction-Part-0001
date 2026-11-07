@@ -1,10 +1,10 @@
 {
   "kind": "wiki-release-reference",
-  "release_id": "02636eccacd2dd1727a3f3b6be5af8eb9192a0626d54387120364fc5398e4031",
+  "release_id": "0985d42c2afa1aa3f5e12204f8e7ddb06a1b8696aa2d8a0b95b1343676c21700",
   "schema_version": 1,
   "target": {
-    "bytes": 23535,
-    "path": "https://rk-gamemods.github.io/HumanHost-Wiki-Construction-Part-0002/releases/02636eccacd2dd1727a3f3b6be5af8eb9192a0626d54387120364fc5398e4031.json",
-    "sha256": "435f370d59f7d17397577f820f12bdd430ac5d89305461443b421541fd78257f"
+    "bytes": 12451,
+    "path": "https://rk-gamemods.github.io/HumanHost-Wiki-Construction-Part-0002/releases/0985d42c2afa1aa3f5e12204f8e7ddb06a1b8696aa2d8a0b95b1343676c21700.json",
+    "sha256": "44cb581fa36503b8b5d6ccc08c60df89973b7c6901bbdec486e97c7b4dbd3bdb"
   }
 }
